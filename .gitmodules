@@ -1,3 +1,6 @@
 [submodule "seedBackend"]
 	path = seedBackend
 	url = https://github.com/hamzabouissi/seedPlantBackend
+[submodule "front-end"]
+	path = front-end
+	url = https://github.com/changhao-wang010220/htv5
