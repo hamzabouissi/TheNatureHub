@@ -1,0 +1,3 @@
+[submodule "seedBackend"]
+	path = seedBackend
+	url = https://github.com/hamzabouissi/seedPlantBackend
